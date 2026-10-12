@@ -1,0 +1,66 @@
+{
+  "phase": "setup",
+  "tasks": {
+    "T00": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    },
+    "T01": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    },
+    "T02": {
+      "status": "done",
+      "started": "2025-10-12T00:00:00Z",
+      "finished": "2025-10-12T00:00:00Z"
+    },
+    "T03": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    },
+    "T04": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    },
+    "T05": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    },
+    "T06": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    },
+    "T07": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    },
+    "T08": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    },
+    "T09": {
+      "status": "pending",
+      "started": null,
+      "finished": null
+    },
+    "T10": {
+      "status": "pending",
+      "started": null,
+      "finished": null
+    },
+    "T11": {
+      "status": "done",
+      "started": null,
+      "finished": null
+    }
+  },
+  "last_updated": "2025-10-12T00:00:00Z"
+}

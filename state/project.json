@@ -1,0 +1,15 @@
+{
+  "name": "photocraft-ipad",
+  "repo": {
+    "local": "/Users/marcio/Projetos/photocraft_ipad",
+    "upstream": "https://github.com/storytold/photocraft.git",
+    "fork": null
+  },
+  "targets": {
+    "ios_device": "aarch64-apple-ios",
+    "ios_sim": "aarch64-apple-ios-sim"
+  },
+  "status": "planning",
+  "started_at": "2025-10-12T00:00:00Z",
+  "spec_version": "1.0"
+}
